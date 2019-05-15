@@ -4,6 +4,7 @@
 int main(int argc, char **argv)
 {
 	printf("hello linux\n");
-	printf("china");
+	printf("china!\n");
+	printf("lingyong!\n");
 	return 0;
 }
